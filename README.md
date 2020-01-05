@@ -1,1 +1,1 @@
-# ellak_plant_watering_system
+# ellak-plant-watering-system
